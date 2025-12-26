@@ -22,8 +22,11 @@ def load_image(name, fallback_size=None, fill=(200, 200, 200)):
     surf.fill(fill)
     return surf
 
+screen = pygame.display.set_mode((800, 600)) # ← 先に画面を作る！
 background = load_image("background.png", fallback_size=(800, 600), fill=(30, 120, 200))
 airplane_img = load_image("airplane.png", fallback_size=(64, 64), fill=(255, 255, 255))
+# 1/6 に縮小 
+airplane_img = pygame.transform.scale(airplane_img, (120, 120))
 
 # Window size matches background
 WIDTH, HEIGHT = background.get_width(), background.get_height()
