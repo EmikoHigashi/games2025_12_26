@@ -1,4 +1,4 @@
-# Simple Arrow-Key Movement Program for Kids
+# 📠Simple Arrow-Key Movement Program for Kids🚗
 
 This repository contains a very simple Python program designed for children who are learning programming.  
 For example, using the arrow keys on the keyboard, the player can move a block around the screen.
@@ -70,8 +70,10 @@ Install pygame first:
 ```bash
 python -m pip install pygame
 ```
+# ⭐How to Download⭐
+Click the **“Code”** button and select **“Download ZIP”** to download all files as a ZIP archive.
 
-# What can you change in these programs?
+# ⛏️What can you change in these programs?✂️
 
 This repository contains three simple Python programs designed for kids who are learning programming.  
 They are intentionally easy to modify so children can experiment, customize, and learn by trying things out.  
@@ -96,7 +98,7 @@ Here are some example ideas for what they can change:
 - Replace the background image with another picture  
 - Resize the airplane image  
 - Modify the key controls (not only arrow keys)  
-- Use your own drawing instead of the airplane image  
+- Use your own drawing instead of the airplane image
 
 ## Limitations / Notes
 
@@ -115,7 +117,7 @@ Here are some example ideas for what they can change:
   - High-performance rendering
 - The code is meant for **learning and experimentation**, not for production use.
 
-#
+# 🌍
 
 # 日本語の簡単な解説
 子供向けのシンプルなPythonコードです。プログラミング学習をしているお子さん向けに作りました。このコードを自由に作り変えて、学習に役立ててください。
@@ -128,14 +130,15 @@ Here are some example ideas for what they can change:
 
 ## MovingBlock.py
 実行すると矢印キーで動く、飛行機が現れます。
-ariplane.png ファイルと、background.png ファイルを同じフォルダに置いてください。
-👉　実行する前に、Windowsのコマンドプロンプトでこのように入力して、pygameをインストールしてください。
+- 👉 ariplane.png ファイルと、background.png ファイルを同じフォルダに置いてください
+- 👉 実行する前に、Windowsのコマンドプロンプトでこのように入力して、pygameをインストールしてください。
+
 ```bash
 python -m pip install pygame
 ```
-👉　Windowsのコマンドプロンプトを起動するには、タスクバーの検索ボックス（虫眼鏡の形のアイコン）に「cmd」または「コマンドプロンプト」と入力します。
+- 👉 Windowsのコマンドプロンプトを起動するには、タスクバーの検索ボックス（虫眼鏡の形のアイコン）に「cmd」または「コマンドプロンプト」と入力します。
 
-## どこを変えて遊べるの？
+## ⛏️どこを変えて遊べるの？✂️
 
 このリポジトリに入っている 3 つのプログラムは、子どもが自由に書き換えて遊べるように作っています。  
 以下は、学習のきっかけになる「変更してみると楽しいポイント」の例です。
@@ -160,5 +163,8 @@ python -m pip install pygame
 - 入力欄のフォントサイズを変える  
 - 計算結果を大きく表示する  
 - 自分で「問題を出すモード」を作ってみる
+
+# ⭐ダウンロードの仕方⭐
+「Code」ボタンをクリックして「Download ZIP」を選択すると、zipファイルとしてダウンロードできます。
 
 
