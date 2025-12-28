@@ -1,4 +1,4 @@
-![banner](https://github.com/EmikoHigashi/emikosh/blob/banner.png?raw=true)
+![banner](https://github.com/EmikoHigashi/emikosh/blob/main/blob/banner.png)
 
 # 📠Simple Arrow-Key Movement Program for Kids🚗
 
